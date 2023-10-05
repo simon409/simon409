@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)](https://mohamedaddar.netlify.app)
 <h1 align="center">Hi 👋, I'm Mohamed Addar</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
+
 - 🔭 I’m currently working on **Aidvi**
 
 - 🌱 I’m currently learning **NextJS**
