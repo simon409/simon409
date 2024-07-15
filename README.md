@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Addar</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Aidvi**
+- 🔭 I’m currently working on **Elektron**
 
 - 🌱 I’m currently learning **NextJS**
 
